@@ -1,0 +1,45 @@
+body {
+    background-color: beige;
+  }
+
+  .girlwithmask {
+    width: 300px;
+    float: row;
+    padding: 5px;
+  }
+
+  .blackandwhite {
+    width: 300px;
+    border-radius: 10px;
+    float: left;
+    margin-right: 10px;
+  }
+
+  .username {
+    display: inline-flex;
+    font-weight: bold;
+    text-align: center;
+    
+  }
+
+  h1 {
+    color: rgb(98, 6, 185);
+    font-style: inherit;
+  }
+
+  h2 {
+    color: rgb(98, 6, 185); 
+  }
+
+  li {
+    list-style-type: none;
+    display: inline-block;
+    border-left: 0cap;
+    padding: 2px;
+    width: 500px;
+    
+  }
+
+  :first-child {
+    padding: 0px;
+  }

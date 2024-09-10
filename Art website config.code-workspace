@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Bakery website"
+		},
+		{
+			"path": "../bootstrap practice"
+		},
+		{
+			"path": "../github"
+		},
+		{
+			"path": "../Javascript practice"
+		},
+		{
+			"path": "../Stacy's clothing shop"
+		},
+		{
+			"path": "../Weather App"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Art website"
+	}
+}
